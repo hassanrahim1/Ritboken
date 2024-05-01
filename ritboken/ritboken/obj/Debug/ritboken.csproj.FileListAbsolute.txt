@@ -1,0 +1,10 @@
+C:\Users\Hassan\source\repos\ritboken\ritboken\bin\Debug\ritboken.exe.config
+C:\Users\Hassan\source\repos\ritboken\ritboken\bin\Debug\ritboken.exe
+C:\Users\Hassan\source\repos\ritboken\ritboken\bin\Debug\ritboken.pdb
+C:\Users\Hassan\source\repos\ritboken\ritboken\obj\Debug\ritboken.csproj.AssemblyReference.cache
+C:\Users\Hassan\source\repos\ritboken\ritboken\obj\Debug\ritboken.Form1.resources
+C:\Users\Hassan\source\repos\ritboken\ritboken\obj\Debug\ritboken.Properties.Resources.resources
+C:\Users\Hassan\source\repos\ritboken\ritboken\obj\Debug\ritboken.csproj.GenerateResource.cache
+C:\Users\Hassan\source\repos\ritboken\ritboken\obj\Debug\ritboken.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\source\repos\ritboken\ritboken\obj\Debug\ritboken.exe
+C:\Users\Hassan\source\repos\ritboken\ritboken\obj\Debug\ritboken.pdb
